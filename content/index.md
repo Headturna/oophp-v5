@@ -1,27 +1,17 @@
 ---
-title: "Min fina titel"
+title: "Suraj Sharma OOPHP"
 ---
 Min me-sida i kursen oophp
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+[FIGURE src="image/me.jpg?w=200" class="right" caption="Jag vid BTH i Karlskrona."]
 
-[FIGURE src="image/me.jpg?w=400&a=4,27,11,0&cf&sharpen" class="right" caption="Bild på mig, ätandes glass och hållandes ett kort på någon jultillställning."]
+Jag heter Suraj Sharma och är 28 år gammal. Min hemstad är Uppsala men jag är nere i Karlskrona och studerar spelprogrammering på BTH. Detta är mitt sista år så jag läser detta kurspaket för att få en bättre förståelse kring webbprogrammering.
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+År 1991 flyttade vi till Sverige från Tyskland där jag föddes. Mina föräldrar är ursprungligen från Indien men min far arbetar som forskare så de valde att arbeta i Europa.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+Min största hobby är att programmera, men det finns andra som träning, spel, sport och olika typer av fordon. Jag driver en [YouTube](https://www.youtube.com/channel/UC2i39AOpDSlO1Mrn1jQ8Xkg) kanal som växer lagom snabbt. Där lär jag ut både generell programmering och spelprogrammering. Kanalen har jag haft igång i ca 3 år nu och det går väldigt bra.
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
+Tack för att du läste detta!
 
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching, sedan turfing och nu på sistone verkar släktforskning lite spännande. Annars kan jag alltid koda på något av mina opensource-projekt, det finns och blir över.
-
-Vill du läsa mer om vad jag jobbat med så kan du kika på min [Linkedin-profil](https://www.linkedin.com/in/pt90mr/).
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+/Suraj
