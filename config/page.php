@@ -21,7 +21,7 @@ return [
             "stylesheets" => [
                 // Change here to set another default stylesheet
                 "css/dbwebb-se.min.css",
-                //"css/another.min.css",
+                "css/kmom01.min.css",
             ],
             "javascripts" => [
                 "js/responsive-menu.js",
@@ -36,7 +36,7 @@ return [
             "template" => "anax/v2/header/site_logo",
             "data" => [
                 "class" => "large",
-                "siteLogo"      => "image/theme/leaf_256x256.png",
+                "siteLogo"      => "image/theme/logo.png",
                 "siteLogoAlt"   => "Löv",
             ],
         ],

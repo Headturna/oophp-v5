@@ -5074,7 +5074,7 @@ a:hover {
 .blog-list h1 {
   font-size: 1.875em;
   line-height: 1.6;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #323232;
 }
 .blog-list h1 a {
   color: inherit;
@@ -5085,7 +5085,7 @@ a:hover {
   text-decoration: underline;
 }
 .blog-post h1 {
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #323232;
 }
 .blog-list-item {
   margin-bottom: 48px;
@@ -5188,14 +5188,14 @@ fieldset {
 }
 html {
   overflow-y: scroll;
-  background-color: #424242;
+  background-color: #323232;
 }
 body {
   margin: 0;
   padding: 0;
-  color: #111;
-  background-color: #fff;
-  font: 16px/1.5 Verdana, Geneva, sans-serif;
+  color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(100, 100, 100, 0.8);
+  font: 16px/1.5 "Open Sans";
 }
 code {
   background-color: #000000;
@@ -5217,7 +5217,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Cambria, Georgia, Times, 'Times New Roman', serif;
+  font-family: "Open Sans";
   margin-top: 24px;
   margin-bottom: 24px;
 }
@@ -5233,7 +5233,7 @@ h1 {
   font-size: 2.375em;
   line-height: 1.26315789;
   font-weight: normal;
-  border-bottom: 1px solid #666;
+  border-bottom: 1px solid #323232;
   margin-bottom: 23px;
 }
 h1 ~ h1,
@@ -5252,7 +5252,7 @@ h2 {
   line-height: 1.6;
   font-weight: normal;
   margin-bottom: 23px;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #323232;
 }
 h2 + h3 {
   margin-top: 24px;
@@ -5262,7 +5262,7 @@ h3 {
   line-height: 1.71428571;
   font-weight: normal;
   margin-bottom: 23px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #323232;
 }
 h3 + h4 {
   margin-top: 24px;
@@ -5272,7 +5272,7 @@ h4 {
   line-height: 1;
   font-weight: normal;
   margin-bottom: 23px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #323232;
 }
 h4 + h5 {
   margin-top: 24px;
@@ -5341,7 +5341,7 @@ code,
 kbd,
 samp,
 .code {
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Open Sans";
 }
 code,
 samp {
@@ -5833,7 +5833,7 @@ a.rm-button.rm-clicked .rm-button-face-2 {
   text-align: center;
 }
 .rm-navbar-top.rm-navbar {
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Open Sans";
   line-height: 1;
   font-size: 22px;
   top: 10px;
@@ -6389,7 +6389,7 @@ a.rm-button.rm-clicked .rm-button-face-2 {
  * A footer style for dbwebb.se.
  */
 .outer-wrap-footer {
-  background-color: #424242;
+  background-color: #323232;
   padding-top: 24px;
   padding-bottom: 48px;
 }
@@ -6525,7 +6525,7 @@ a.rm-button.rm-clicked .rm-button-face-2 {
 }
 .rm-navbar {
   text-align: center;
-  font-family: Cambria, Georgia, Times, 'Times New Roman', serif;
+  font-family: "Open Sans";
   font-size: 1.5em;
   line-height: 0;
 }
@@ -6533,11 +6533,14 @@ a.rm-button.rm-clicked .rm-button-face-2 {
   font-size: 1.5em;
 }
 .rm-desktop li ul {
-  background-color: #fff;
+  background-color: #323232;
 }
 .wrap-sidebar .block h4 {
   border-top: 1px solid #ccc;
-  background-image: linear-gradient(to right, #fff, #ccc);
+  background-image: linear-gradient(to right, #646464, #323232);
+}
+code {
+  background-color: #000000;
 }
 /**
  * My settings.
